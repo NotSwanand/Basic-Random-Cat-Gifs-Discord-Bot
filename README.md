@@ -26,3 +26,14 @@ A simple Discord bot that responds to mentions with commands such as sending ran
    ```bash
    git clone https://github.com/NotSwanand/Basic-Random-Cat-Gifs-Discord-Bot.git
    cd Basic-Random-Cat-Gifs-Discord-Bot
+   
+2. Install the required dependencies:
+
+```
+pip install discord.py requests
+```
+
+3. Add your API keys:
+
+Replace 'your_key' in the client.run() method with your Discord bot token.
+Replace 'your_cat_api' in the headers with your Cat API key.
