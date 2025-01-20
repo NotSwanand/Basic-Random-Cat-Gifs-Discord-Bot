@@ -25,7 +25,6 @@ A simple Discord bot that responds to mentions with commands such as sending ran
 1. Clone this repository:
    ```bash
    git clone https://github.com/NotSwanand/Basic-Random-Cat-Gifs-Discord-Bot.git
-   cd Basic-Random-Cat-Gifs-Discord-Bot
    
 2. Install the required dependencies:
 
