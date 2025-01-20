@@ -29,7 +29,7 @@ A simple Discord bot that responds to mentions with commands such as sending ran
    
 2. Install the required dependencies:
 
-```
+```bash
 pip install discord.py requests
 ```
 
